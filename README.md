@@ -141,5 +141,10 @@ El proyecto incluye:
 -   `image` debe ser string (opcional)
 
 ------------------------------------------------------------------------
+## Probar mis endpoints públicos:
+
+-   GET https://proyecto-final-backend-sandy.vercel.app/api/products
+
+-   POST https://proyecto-final-backend-sandy.vercel.app/api/auth/login (enviar email/password)
 
 
